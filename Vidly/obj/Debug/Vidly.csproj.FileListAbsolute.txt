@@ -1,0 +1,162 @@
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\csc.exe
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\vbc.exe
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Vidly.dll.config
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Vidly.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Vidly.pdb
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Antlr3.Runtime.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Newtonsoft.Json.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Owin.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Helpers.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Mvc.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Optimization.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Razor.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\WebGrease.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Helpers.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Mvc.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Optimization.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Razor.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Newtonsoft.Json.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
+c:\users\manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipType.resources
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\Manesh\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\csc.exe
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\vbc.exe
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Vidly.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Owin.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipType.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\Manesh\Desktop\Destop\Vidly\Vidly\obj\Debug\Vidly.pdb
